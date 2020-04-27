@@ -1,4 +1,4 @@
 # gamereview-sentiment
 
-#### The competetion in Analytics Vidhya.
+#### competetion in Analytics Vidhya.
 #### NLP Jantahackathon
